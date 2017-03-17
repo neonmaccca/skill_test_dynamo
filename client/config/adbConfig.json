@@ -1,0 +1,5 @@
+module.exports = {
+  "androidDevice": {
+    "adbPause": "adb shell input keyevent 85"
+  }
+}
